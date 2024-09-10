@@ -1,0 +1,2 @@
+# RizzCrypter
+A simple RizzCrypter
