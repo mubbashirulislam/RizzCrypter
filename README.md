@@ -9,7 +9,7 @@
 Check out the live version of **RizzCrypter**: [RizzCrypter Demo](https://mubbashirulislam.github.io/RizzCrypter/)
 
 
-![screenshot](screenshot.png)
+![screenshot](Screenshot.png)
 
 ## ✨ Features
 
