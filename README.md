@@ -13,7 +13,7 @@ Check out the live version of **RizzCrrypter**: [RizzCrypter Demo](https://mubba
 
 ## ✨ Features
 
-- **Key-Based Encryption & Decryption**: Encrypt and decrypt text using a user-supplied key.
+- **Key-Base Encryption & Decryption**: Encrypt and decrypt text using a user-supplied key.
 - **Responsive UI**: Works seamlessly on desktops and mobile devices.
 - **Real-Time Updates**: See results immediately after encryption or decryption.
 
