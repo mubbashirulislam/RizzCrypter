@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-Check out the live version of **RizzCrypter**: [RizzCrypter Demo](https://mubbashirulislam.github.io/RizzCrypter/)
+Check out the live version of **RizzCrrypter**: [RizzCrypter Demo](https://mubbashirulislam.github.io/RizzCrypter/)
 
 
 ![screenshot](Screenshot.png)
